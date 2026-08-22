@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
