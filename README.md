@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1854-maximum-population-year](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1854-maximum-population-year](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
