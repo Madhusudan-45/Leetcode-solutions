@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0704-binary-search) |
+| [1002-find-common-characters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1002-find-common-characters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
