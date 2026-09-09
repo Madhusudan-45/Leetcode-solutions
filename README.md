@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0355-design-twitter](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
