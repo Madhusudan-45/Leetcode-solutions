@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1002-find-common-characters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1002-find-common-characters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
@@ -194,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
