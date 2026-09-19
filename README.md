@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
