@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
 |  |
 | ------- |
