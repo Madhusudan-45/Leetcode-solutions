@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -253,4 +254,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0202-happy-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
