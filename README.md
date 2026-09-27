@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
