@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
