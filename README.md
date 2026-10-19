@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Bracket Sequences
 |  |
