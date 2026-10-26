@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -405,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
