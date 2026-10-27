@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1002-find-common-characters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
