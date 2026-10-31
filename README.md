@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
