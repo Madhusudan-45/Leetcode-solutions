@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
