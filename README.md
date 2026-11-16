@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0089-gray-code) |
 ## Binary Indexed Tree
 |  |
 | ------- |
