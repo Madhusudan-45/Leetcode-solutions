@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1854-maximum-population-year) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Newton's Method
