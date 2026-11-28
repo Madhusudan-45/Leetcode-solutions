@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0504-base-7) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1854-maximum-population-year](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/1854-maximum-population-year) |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhusudan-45/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
